@@ -1,6 +1,6 @@
 # Hello! I am Mihir 🙋‍♂️
 
-## Master of Science - Computer Science | Bachelor of Engineering - Computer Engineering :
+## MS - Computer Science | BE - Computer Engineering
 
 - ☀️ Learning and accepting whatever comes my way
 - 🥅 Better time management and increased productivity
