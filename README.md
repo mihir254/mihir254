@@ -1,12 +1,12 @@
-# Hello! I am Mihir 👋
+# Hello! I am Mihir 🙋‍♂️
 
-## Master of Science - Computer Science | Bachelor of Engineering - Computer Engineering
+## Master of Science - Computer Science | Bachelor of Engineering - Computer Engineering :
 
-- :sunny: Learning and accepting whatever comes my way
+- ☀️ Learning and accepting whatever comes my way
 - 🥅 Better time management and increased productivity
 - ⚡ Multi-tasking is the way to go!
-- 🔭 Exploring the power of Machine Learning
-- 👯 Love to collaborate and work in a team
+- 🎰 Exploring the power of Machine Learning
+- 👬 Love to collaborate and work in a team
 
 ### Connect with me:
 
