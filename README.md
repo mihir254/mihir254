@@ -1,13 +1,12 @@
-# Hi there, I'm Mihir 👋
+# Hello! I am Mihir 👋
 
-## I'm a blah blah and blah!!
+## Master of Science - Computer Science | Bachelor of Engineering - Computer Engineering
 
-- 🔭 Cool thing about me 1!
-- 🌱 Cool thing about me 2 🤣
-- 👯 Cool thing about me 3
-- 🥅 Cool thing about me 4
-- ⚡ Cool thing about me 5
-- 😻 Cool thing about me 6
+- :sunny: Learning and accepting whatever comes my way
+- 🥅 Better time management and increased productivity
+- ⚡ Multi-tasking is the way to go!
+- 🔭 Exploring the power of Machine Learning
+- 👯 Love to collaborate and work in a team
 
 ### Connect with me:
 
