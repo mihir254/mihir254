@@ -26,7 +26,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mihir254's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mihir254&show_icons=true&hide_border=false&theme=onedark" />
+  <img align="left" alt="mihir254's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mihir254&show_icons=true&theme=dark" />
 
 </details>
 
